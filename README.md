@@ -1,3 +1,3 @@
 # RevisionOtros7
 
-Ejercicio Cpaitales y paises
+Ejercicio capitales y paises
